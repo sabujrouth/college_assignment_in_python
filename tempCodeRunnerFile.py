@@ -1,2 +1,2 @@
-if 'student_name' in DIATM:
-    #     print(f"Student Name: $ {DIATM['student_name']}")
+del s.student_name
+# s.display()
