@@ -13,5 +13,5 @@ class Bus(Vehicle):
         total_fare = fare_car + (0.1 *fare_car)
         return total_fare
 
-School_bus = Bus("School Volvo", 50)
+School_bus = Bus("capacity",50)
 print("Total Bus fare is:", School_bus.fare())
