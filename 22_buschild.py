@@ -1,3 +1,4 @@
+print("Sabuj Routh")
 class Vehicle:
     def __init__(self, name, capacity):
         self.name = name

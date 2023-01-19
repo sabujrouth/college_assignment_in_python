@@ -1,3 +1,4 @@
+print("Sabuj Routh")
 def remove_nums(int_list):
   #list starts with 0 index
   position = 3 - 1 
