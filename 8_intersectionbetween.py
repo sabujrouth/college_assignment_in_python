@@ -1,4 +1,4 @@
-print("Sabuj Routh")
+# Write a python program to print the intersection between two lists
 def intersection(list1, list2):
     return list(set(list1) & set(list2))
 

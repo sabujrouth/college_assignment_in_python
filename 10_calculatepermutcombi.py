@@ -1,3 +1,6 @@
+# Write a python program to calculate permutations & combinations (using & w/o using
+# library)
+
 # Here is a Python program that calculates permutations and combinations using the math library
 import math
 

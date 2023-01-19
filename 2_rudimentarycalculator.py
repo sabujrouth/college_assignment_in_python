@@ -1,4 +1,4 @@
-print("Sabuj Routh")
+# A rudimentary calculator (with exception handling)
 while True:
     try:
         num1 = float(input("Enter a number: "))

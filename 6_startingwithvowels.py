@@ -1,4 +1,4 @@
-print("Sabuj Routh")
+# Write a python program to check if every word starting with vowels have 'an' before it
 sentence = "An apple a day keeps the doctor away"
 words = sentence.split()
 

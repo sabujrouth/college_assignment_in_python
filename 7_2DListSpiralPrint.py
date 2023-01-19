@@ -1,4 +1,4 @@
-print("Sabuj Routh")
+# Write a python program to print a 2D list in a spiral manner
 def spiral_print(matrix):
     m, n = len(matrix), len(matrix[0])
     row_start, row_end = 0, m - 1

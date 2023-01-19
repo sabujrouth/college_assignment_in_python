@@ -1,4 +1,4 @@
-print("Sabuj Routh")
+# Write a python program to count word frequency from a text file. (And, plot a histogram)
 from collections import Counter
 
 def count_words(filepath):

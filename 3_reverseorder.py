@@ -1,8 +1,9 @@
-print("Sabuj Routh")
-f1 = open("output1.txt", "w")
+# Write a python program to save a text file in reverse order. (Individual words will not get
+# reversed)
+f1 = open("output.txt", "w")
 
 
-with open("input1.txt", "r") as myfile:
+with open("input.txt", "r") as myfile:
 	data = myfile.read()
 
 data_1 = data[::-1]

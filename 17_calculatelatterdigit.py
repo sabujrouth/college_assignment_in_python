@@ -1,4 +1,4 @@
-print("Sabuj Routh")
+# Write a program that accepts a sentence and calculate the number of letters and digits
 sentence = input("Enter a sentence: ")
 letters = 0
 digits = 0

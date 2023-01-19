@@ -1,4 +1,5 @@
-print("Sabuj Routh")
+# Write a Python program to remove and print every third number from a list of numbers
+# until the list becomes empty
 def remove_nums(int_list):
   #list starts with 0 index
   position = 3 - 1 

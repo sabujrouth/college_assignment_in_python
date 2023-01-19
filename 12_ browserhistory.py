@@ -1,4 +1,5 @@
-print("Sabuj Routh")
+# Write a python program to make a browser history storage with forward and backward
+# moving options
 class BrowserHistory:
     def __init__(self):
         self.history = []
