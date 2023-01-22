@@ -1,7 +1,6 @@
 # Write a program which accepts a sequence of comma separated 4 digit binary numbers as
 # its input and then check whether they are divisible by 5 or not
 # Input Example : 0100,0011,1010,1001
-
 numbers = input("Enter a sequence of comma separated 4 digit binary numbers: ")
 numbers = numbers.split(",")
 
