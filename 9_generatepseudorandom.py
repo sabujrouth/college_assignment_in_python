@@ -1,5 +1,6 @@
 # Write a Python program to generate a pseudo random string with templating support. (i.e.
 # Input : `a____string`, a possible output string : a12agstring)
+print("Sabuj Routh")
 import random
 import string
 

@@ -2,6 +2,7 @@
 # i*i) such that is an integral number between 1 and n (both included). and then the
 # program should print the dictionary
 # Input Example : 5
+print("Sabuj Routh")
 n = int(input("Enter an integer: "))
 
 squares = {}

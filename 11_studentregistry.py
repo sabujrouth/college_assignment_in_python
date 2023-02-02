@@ -1,5 +1,6 @@
 # Write a python program to simulate a student registry with trivial operations. Records
 # should be saved into a text file
+print("Sabuj Routh")
 import os
 
 class Student:

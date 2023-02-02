@@ -1,4 +1,5 @@
 # Write a python program to get sum of squares of list of integers
+print("Sabuj Routh")
 def sum_of_squares(numbers):
     total = 0
     for number in numbers:

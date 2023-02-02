@@ -9,6 +9,7 @@
 # 6. Maximum length of transaction password: 12
 # Your program should accept a sequence of comma separated passwords and will check
 # them according to the above criteria.
+print("Sabuj Routh")
 import re
 
 def check_password(password):

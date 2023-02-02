@@ -1,5 +1,6 @@
 # Write a Python program to create all possible strings by using 'a', 'e', 'i', 'o', 'u'. Use the
 # characters exactly once
+print("Sabuj Routh")
 import random
 char_list = ['a','e','i','o','u']
 
