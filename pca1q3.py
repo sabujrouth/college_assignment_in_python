@@ -1,6 +1,8 @@
 # Write a python code to find minimum and maximum elements from array using
 # Divide and Conquer approach
 
+print("Sabuj Routh")
+
 def find_min_max(arr, low, high):
     # If there is only one element
     if low == high:

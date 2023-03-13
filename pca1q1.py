@@ -1,5 +1,7 @@
 # Write a python code to find minimum and maximum elements from array
 
+print("Sabuj Routh")
+
 def find_min_max(arr):
     min_val = arr[0]
     max_val = arr[0]
