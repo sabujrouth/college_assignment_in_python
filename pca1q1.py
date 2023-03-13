@@ -1,4 +1,4 @@
-# Write a C/ python code to find minimum and maximum elements from array
+# Write a python code to find minimum and maximum elements from array
 
 def find_min_max(arr):
     min_val = arr[0]

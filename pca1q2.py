@@ -1,4 +1,4 @@
-# Write a C/ python code to perform binary search algorithm using recursion
+# Write a python code to perform binary search algorithm using recursion
 
 def binary_search(my_list, low, high, elem):
    if high >= low:
