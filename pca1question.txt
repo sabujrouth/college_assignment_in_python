@@ -1,0 +1,14 @@
+1. Write a C/ python code to find minimum and maximum elements from array.
+
+2. Write a C/ python code to perform binary search algorithm using recursion.
+
+3. Write a C/ python code to find minimum and maximum elements from array using
+Divide and Conquer approach.
+
+4. Write a C/ python code to display Fibonacci series till n numbers using recursion.
+
+5. Write a C/ python code to perform bubble sort algorithm using functional approach
+and also print the time complexity.
+
+6. Write a C/ python code to perform selection sort algorithm using functional approach
+and print the time complexity.
