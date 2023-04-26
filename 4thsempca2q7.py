@@ -1,3 +1,5 @@
+# Write a python code to calculate shortest path using prims algorithm
+
 import sys
 class Graph():
     def __init__(self, vertices):
