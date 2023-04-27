@@ -1,5 +1,7 @@
 # Write a python code to calculate shortest path using krushkal algorithm
 
+print("Sabuj Routh")
+
 from collections import defaultdict
 
 class Graph:
